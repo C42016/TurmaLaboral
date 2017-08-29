@@ -34,6 +34,10 @@ public class MiltonTurmaLaboral {
             Estudante estudante= new Estudante(n, notas, media);
         }
     }
+    
+    public void calcularEmostrarMedia(){
+        
+    }
     public static void main(String[] args) {
         
     }
