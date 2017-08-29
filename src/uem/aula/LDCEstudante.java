@@ -39,7 +39,7 @@ public class LDCEstudante {
     }
 
     /**
-     * @return the notas
+     * @return As notas a retornar
      */
     public Vector<Double> getNotas() {
         return notas;
