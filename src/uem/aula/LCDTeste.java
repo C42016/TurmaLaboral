@@ -11,5 +11,7 @@ package uem.aula;
  */
 public class LCDTeste {
  
-    pv
+    public static void main(String[] args) {
+        
+    }
 }

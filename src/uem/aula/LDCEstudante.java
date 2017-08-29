@@ -67,7 +67,13 @@ public class LDCEstudante {
     }
 
     public double media(){
-       this
+        double soma = 0;
+        for (int i = 0; i < notas.size(); i++) {
+            double a= notas.elementAt(i);
+            soma += a;
+        }
+       this.media = soma/notas.size();
+       return this.media;
     }
     
 }
