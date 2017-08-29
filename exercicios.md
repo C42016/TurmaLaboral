@@ -22,4 +22,4 @@ E em seguida deve mostrar o estudante ou estudantes que possuem a melhor média 
 5.	Faça um algoritmo para ordenar um vetor da seguinte forma, o algoritmo
 identifica o maior valor e o coloca na última posição livre de um outro vetor. Na próxima iteração este valor é descartado, repetindo até não sobrarem mais valores.
 
-#### NOTA: Implemente usando as classes Vectores e Stack
+#### NOTA: Implemente usando as classes: Vector e Stack
