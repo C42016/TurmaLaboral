@@ -1,17 +1,21 @@
-
 package uem.aula;
+
+import java.util.Vector;
 
 /**
  *
  * @author Alfredo
  */
 public class TurmaLaboral {
+//atributos
+    Vector<Estudante> estudante;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-       
+    public TurmaLaboral(int numeroEstudantes) {
+        estudante = new Vector<>(numeroEstudantes);
     }
-    
+
+    public static void main(String[] args) {
+
+    }
+
 }
