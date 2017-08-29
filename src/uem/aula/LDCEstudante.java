@@ -60,7 +60,7 @@ public class LDCEstudante {
     }
 
     /**
-     * @param media the media to set
+     * @param media the media to 
      */
     public void setMedia(double media) {
         this.media = media;
