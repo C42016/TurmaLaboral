@@ -29,5 +29,7 @@ public class MarcoCangela {
         notas.add(n1);
         notas.add(n2);
         notas.add(n3);
+        
+        
     }   
 }
