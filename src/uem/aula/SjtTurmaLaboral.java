@@ -5,7 +5,7 @@ package uem.aula;
  *
  * @author Alfredo
  */
-public class TurmaLaboral {
+public class SjtTurmaLaboral {
 
     /**
      * @param args the command line arguments
