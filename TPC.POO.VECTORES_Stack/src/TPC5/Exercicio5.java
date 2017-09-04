@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author euliterio
+ * @author celio manso
  */
 public class Exercicio5 {
    
