@@ -1,6 +1,7 @@
 package uem.aula;
 
 import java.util.Vector;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -13,7 +14,10 @@ public class TurmaLaboral {
     public TurmaLaboral(int numeroEstudantes) {
         estudante = new Vector<>(numeroEstudantes);
     }
-
+    public static void adicionarEstudante(){
+        int a = 0;
+        String nome = JOptionPane.showInputDialog("Nome do estudante: ");
+    }
     /**
      * @param args the command line arguments
      */
