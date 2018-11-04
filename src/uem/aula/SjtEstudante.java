@@ -7,7 +7,7 @@ import java.util.Vector;
  *
  * @author Alfredo
  */
-public class Estudante {
+public class SjtEstudante {
     
     private String nome;
     private Vector<Double> notas;
@@ -19,7 +19,7 @@ public class Estudante {
      * @param notas
      * @param media 
      */
-    public Estudante(String nome, Vector<Double> notas, double media) {
+    public SjtEstudante(String nome, Vector<Double> notas, double media) {
         this.nome = nome;
         this.notas = notas;
         this.media = media;
